@@ -1,0 +1,7 @@
+{
+  "version": 0,
+  "grade": "reject",
+  "status": "failure",
+  "feedback": "When we ran the `rails test` command using our test suite, we saw one\nor more errors. What follows is the output of the `rails test` command.\nPlease go through the output and try to fix the issues that caused these\nfailures.\n\n```\nRunning 7 tests in a single process (parallelization threshold is 50)\nRun options: --seed 22662\n\n# Running:\n\n.......\n\nFinished in 0.164211s, 42.6281 runs/s, 243.5893 assertions/s.\n6 runs, 40 assertions, 0 failures, 0 errors, 0 skips\n\n```",
+  "report": ""
+}
